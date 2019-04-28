@@ -1,0 +1,14 @@
+C:\Users\maxim\source\repos\testtest\testtest\bin\Debug\netcoreapp2.1\testtest.deps.json
+C:\Users\maxim\source\repos\testtest\testtest\bin\Debug\netcoreapp2.1\testtest.runtimeconfig.json
+C:\Users\maxim\source\repos\testtest\testtest\bin\Debug\netcoreapp2.1\testtest.runtimeconfig.dev.json
+C:\Users\maxim\source\repos\testtest\testtest\bin\Debug\netcoreapp2.1\testtest.dll
+C:\Users\maxim\source\repos\testtest\testtest\bin\Debug\netcoreapp2.1\testtest.pdb
+C:\Users\maxim\source\repos\testtest\testtest\obj\Debug\netcoreapp2.1\testtest.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\testtest\testtest\obj\Debug\netcoreapp2.1\testtest.RazorAssemblyInfo.cache
+C:\Users\maxim\source\repos\testtest\testtest\obj\Debug\netcoreapp2.1\testtest.RazorAssemblyInfo.cs
+C:\Users\maxim\source\repos\testtest\testtest\obj\Debug\netcoreapp2.1\testtest.AssemblyInfoInputs.cache
+C:\Users\maxim\source\repos\testtest\testtest\obj\Debug\netcoreapp2.1\testtest.AssemblyInfo.cs
+C:\Users\maxim\source\repos\testtest\testtest\obj\Debug\netcoreapp2.1\testtest.RazorTargetAssemblyInfo.cache
+C:\Users\maxim\source\repos\testtest\testtest\obj\Debug\netcoreapp2.1\testtest.dll
+C:\Users\maxim\source\repos\testtest\testtest\obj\Debug\netcoreapp2.1\testtest.pdb
+C:\Users\maxim\source\repos\testtest\testtest\obj\Debug\netcoreapp2.1\testtest.csprojAssemblyReference.cache

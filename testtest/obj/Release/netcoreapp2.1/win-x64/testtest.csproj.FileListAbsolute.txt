@@ -1,0 +1,17 @@
+C:\Users\maxim\source\repos\testtest\testtest\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\maxim\source\repos\testtest\testtest\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\maxim\source\repos\testtest\testtest\bin\Release\netcoreapp2.1\win-x64\testtest.exe
+C:\Users\maxim\source\repos\testtest\testtest\bin\Release\netcoreapp2.1\win-x64\testtest.deps.json
+C:\Users\maxim\source\repos\testtest\testtest\bin\Release\netcoreapp2.1\win-x64\testtest.runtimeconfig.json
+C:\Users\maxim\source\repos\testtest\testtest\bin\Release\netcoreapp2.1\win-x64\testtest.runtimeconfig.dev.json
+C:\Users\maxim\source\repos\testtest\testtest\bin\Release\netcoreapp2.1\win-x64\testtest.dll
+C:\Users\maxim\source\repos\testtest\testtest\bin\Release\netcoreapp2.1\win-x64\testtest.pdb
+C:\Users\maxim\source\repos\testtest\testtest\obj\Release\netcoreapp2.1\win-x64\testtest.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\testtest\testtest\obj\Release\netcoreapp2.1\win-x64\testtest.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\testtest\testtest\obj\Release\netcoreapp2.1\win-x64\testtest.RazorAssemblyInfo.cache
+C:\Users\maxim\source\repos\testtest\testtest\obj\Release\netcoreapp2.1\win-x64\testtest.RazorAssemblyInfo.cs
+C:\Users\maxim\source\repos\testtest\testtest\obj\Release\netcoreapp2.1\win-x64\testtest.AssemblyInfoInputs.cache
+C:\Users\maxim\source\repos\testtest\testtest\obj\Release\netcoreapp2.1\win-x64\testtest.AssemblyInfo.cs
+C:\Users\maxim\source\repos\testtest\testtest\obj\Release\netcoreapp2.1\win-x64\testtest.RazorTargetAssemblyInfo.cache
+C:\Users\maxim\source\repos\testtest\testtest\obj\Release\netcoreapp2.1\win-x64\testtest.dll
+C:\Users\maxim\source\repos\testtest\testtest\obj\Release\netcoreapp2.1\win-x64\testtest.pdb
